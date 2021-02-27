@@ -1,0 +1,27 @@
+{
+  "sample": true,
+  "name": "color list",
+  "description": "A list of colors",
+  "colorList": [
+    {
+      "color": "White",
+      "hex": "#FFFFFF"
+    },
+    {
+      "color": "Black",
+      "hex": "#000000"
+    },
+    {
+      "color": "Green",
+      "hex": "#00FF00"
+    },
+    {
+      "color": "Red",
+      "hex": "#FF0000"
+    },
+    {
+      "color": "Blue",
+      "hex": "#0000FF"
+    }
+  ]
+}

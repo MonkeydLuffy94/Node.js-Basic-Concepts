@@ -1,0 +1,3 @@
+This is a new file.
+
+We will write text to a file using fs.writeFile.
